@@ -1,8 +1,8 @@
 <H1 align="center">
 YOLOv8 Object Detection with DeepSORT Tracking(ID + Trails) </H1>
 
-## Google Colab File Link (A Single Click Solution)
-The google colab file link for yolov8 object detection and tracking is provided below, you can check the implementation in Google Colab, and its a single click implementation, you just need to select the Run Time as GPU, and click on Run All.
+## Tautan File Google Colab (Solusi Satu Klik)
+Tautan file google colab untuk deteksi dan pelacakan objek yolov8 disediakan di bawah ini, Anda dapat memeriksa implementasinya di Google Colab, dan implementasinya dengan sekali klik, Anda hanya perlu memilih Jalankan Waktu sebagai GPU, dan klik Jalankan Semua.
 
 [`Google Colab File`](https://colab.research.google.com/drive/1U6cnTQ0JwCg4kdHxYSl2NAhU4wK18oAu?usp=sharing)
 
@@ -12,13 +12,13 @@ The google colab file link for yolov8 object detection and tracking is provided 
 
 ## YOLOv8 Segmentation with DeepSORT Object Tracking
 
-[`Github Repo Link`](https://github.com/MuhammadMoinFaisal/YOLOv8_Segmentation_DeepSORT_Object_Tracking.git)
+[`Github Repo Link`](https://github.com/uctapradema/YOLOv8-DeepSORT-Object-Tracking-main.git)
 
 ## Steps to run Code
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/uctapradema/YOLOv8-DeepSORT-Object-Tracking-main.git
 ```
 - Goto the cloned folder.
 ```
