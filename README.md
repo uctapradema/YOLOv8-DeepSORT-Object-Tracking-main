@@ -12,13 +12,13 @@ Tautan file google colab untuk deteksi dan pelacakan objek yolov8 disediakan di 
 
 ## YOLOv8 Segmentation with DeepSORT Object Tracking
 
-[`Github Repo Link`]([https://github.com/uctapradema/YOLOv8-DeepSORT-Object-Tracking-main).git)
+[`Github Repo Link`](https://github.com/uctapradema/YOLOv8-DeepSORT-Object-Tracking-main.git)
 
 ## Steps to run Code
 
 - Clone the repository
 ```
-git clone https://github.com/MuhammadMoinFaisal/YOLOv8-DeepSORT-Object-Tracking.git
+git clone https://github.com/uctapradema/YOLOv8-DeepSORT-Object-Tracking-main.git
 ```
 - Goto the cloned folder.
 ```
